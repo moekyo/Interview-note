@@ -10,7 +10,7 @@
 
 * 预加载数据    [A tour of UICollectionView](https://developer.apple.com/videos/play/wwdc2018/225/)
 * 后台解码/下采样
-* ![Snipaste_2021-03-05_19-20-13](C:\Users\moekyo\Desktop\Interview-note\笔记\Image and graphics best practices.assets\Snipaste_2021-03-05_19-20-13.png)
+* ![](https://raw.githubusercontent.com/moekyo/img/main/img/Snipaste_2021-03-05_19-20-13.png?token=ADA4UUYRANYTNF7KK3DEWW3AJYKJQ)
 ## 多使用预置图片素材（Image Assets）
 * 针对基于名称和特征的查找进行了优化
 * 更加智能的缓存区管理
@@ -21,4 +21,4 @@
 
 ## 总结
 
-![image-20210305194117402](https://raw.githubusercontent.com/moekyo/Interview-note/main/img/image-20210305194117402.png?token=ADA4UUZDTM4N3RLZ7WJF4QDAJYJKA)
+![](https://raw.githubusercontent.com/moekyo/img/main/img/image-20210305194117402.png?token=ADA4UU3WKDAZTUS5F2V7GD3AJYKJE)
